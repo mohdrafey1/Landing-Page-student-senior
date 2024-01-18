@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    background-color: #daffef;
 }
 
 .container {
@@ -56,6 +57,12 @@
 .navbar li {
     list-style: none;
     margin: 0 12px;
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: #d3c0d2;
+    width: 80px;
+    text-align: center;
 }
 
 .topleft {
