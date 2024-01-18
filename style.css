@@ -63,11 +63,16 @@
     background-color: #d3c0d2;
     width: 80px;
     text-align: center;
+    font-weight: 500;
+}
+
+.navbar li:hover {
+    background-color: white;
+    font-weight: 600;
 }
 
 .topleft {
     width: 50%;
-    z-index: 1;
 }
 
 .topright {
